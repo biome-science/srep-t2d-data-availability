@@ -2,4 +2,7 @@
 
 ## Data availability statement
 
-The repository contains datasets to support an examination of the data availability statements related to editorial and publishing policies in Nature Scientific Reports: [https://www.nature.com/srep/journal-policies/editorial-policies#availability](https://www.nature.com/srep/journal-policies/editorial-policies#availability)
+The repository contains datasets to support an examination of the data availability statements related to [editorial and publishing policies in Nature Scientific Reports](https://www.nature.com/srep/journal-policies/editorial-policies#availability)
+
+- *nhanes_external_validation.csv* contains prepared data from [National Health and Nutrition Examination Survey](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) (NHANES)
+- *private_fragment.csv* contains a fragment of a private anonymized dataset 
